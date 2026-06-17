@@ -2,14 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/560.gif" width="110">
 
-# TRAINER AJ — FULL-STACK DEX ENTRY
+# Hi! I'm AJ!
 ### 
 
-<h4>DEX NO. 560 &nbsp;·&nbsp; SCRAFTY &nbsp;·&nbsp; DARK / FIGHTING &nbsp;·&nbsp; ASPIRING FULL-STACK DEVELOPER</h4>
-
+<h4>ASPIRING FULL STACK DEVELOPER</h4>
 </div>
 
-## `>> TRAINER_STATS.exe`
+## `>> TRAINER_SKILLS.exe`
 
 <div align="center">
 
@@ -36,69 +35,10 @@
 
 <br>
 
-## `>> POKÉDEX_DATA.exe — GITHUB STATS`
+## `>> GITHUB_STATS.exe`
 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBDECASTRO&show_icons=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF)
 
 </div>
-
-<br>
-
-## `>> PARTY_STATUS.exe`
-
-<div align="center">
-
-<table>
-<tr>
-<th>SPRITE</th>
-<th>NAME</th>
-<th>TYPE</th>
-<th>CRY</th>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" width="80"><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/197.gif" width="80">
-</td>
-<td><b>UMBREON</b><br><sub>the loyal one</sub></td>
-<td><code>DARK</code></td>
-<td><i>"never logs off, always on the internet"</i></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/887.gif" width="80"><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/887.gif" width="80">
-</td>
-<td><b>DRAGAPULT</b><br><sub>fastest vercel deployer</sub></td>
-<td><code>DRAGON</code> / <code>GHOST</code></td>
-<td><i>"also the one that gets frustrated the most when build fails"</i></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80"><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif" width="80">
-</td>
-<td><b>GENGAR</b><br><sub>no sleep</sub></td>
-<td><code>GHOST</code> / <code>POISON</code></td>
-<td><i>"doing random stuff at 3am, maybe a pr or two"</i></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif" width="80"><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/181.gif" width="80">
-</td>
-<td><b>AMPHAROS</b><br><sub>light</sub></td>
-<td><code>ELECTRIC</code></td>
-<td><i>"idk what to put here, i just love ampharos"</i></td>
-</tr>
-
-</table>
-
-</div>
-
