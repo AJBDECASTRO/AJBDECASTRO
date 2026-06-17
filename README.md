@@ -102,9 +102,3 @@
 
 </div>
 
-<br>
-
-```
-> PARTY SAVED. 6/6 SLOTS FULL.
-```
-
